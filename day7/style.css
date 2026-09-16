@@ -1,0 +1,9 @@
+.addtask li{
+    display: inline;
+    background: aqua;
+    display: grid;
+    border-radius: 40px;
+    inline-size: 100px;
+    text-align: center;
+    margin: 20px;
+}
